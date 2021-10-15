@@ -16,14 +16,15 @@ Use git clone to or download a zip of the project to get the files.
 
 Replace [fileName] with the name of the txt file that contains the solution
 
-Option#1: sh run.sh [fileName]
+**Option#1:** ```sh run.sh [fileName]```
 
-Option#2: javac Reader.java && java Reader [fileName]
+**Option#2:** ```javac Reader.java && java Reader [fileName]```
 
 ##### Example Usage
-Example#1: ```sh run.sh wrongSolutionExample.txt```
 
-Example#2: ```javac Reader.java && java Reader correctSolutionExample.txt```
+**Example#1:** ```sh run.sh wrongSolutionExample.txt```
+
+**Example#2:** ```javac Reader.java && java Reader correctSolutionExample.txt```
 
 # Sample Input
 
