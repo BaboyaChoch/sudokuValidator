@@ -12,7 +12,7 @@ Examples of usage will be provided below.
 Use git clone to or download a zip of the project to get the files.
 
 
-##### Options
+### Options
 
 Replace [fileName] with the name of the txt file that contains the solution
 
@@ -20,7 +20,7 @@ Replace [fileName] with the name of the txt file that contains the solution
 
 **Option#2:** ```javac Reader.java && java Reader [fileName]```
 
-##### Example Usage
+### Example Usage
 
 **Example#1:** ```sh run.sh wrongSolutionExample.txt```
 
@@ -42,7 +42,7 @@ Replace [fileName] with the name of the txt file that contains the solution
 
 # Sample Outputs
 
-##### Sample output for wrongSolutionExample.txt:
+### Sample output for wrongSolutionExample.txt:
 
 ```
 Thread 1, Row 1, Valid
@@ -74,7 +74,7 @@ Thread 3, SubGrid R789-C456, Invalid
 Thread 3, SubGrid R789-C789, Valid
 ```
 
-##### Sample output for correctSolutionExample.txt:
+### Sample output for correctSolutionExample.txt:
 
 ```
 Thread 1, Row 1, Valid
